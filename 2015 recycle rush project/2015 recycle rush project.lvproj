@@ -567,12 +567,12 @@ AddOutputFilter chunkFilter
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="iMotOut.vi" Type="VI" URL="../../../../Desktop/Enigma 2014 Project/iMotOut.vi"/>
-			<Item Name="iOpen.vi" Type="VI" URL="../../../../Desktop/LabView2015/iOpen.vi"/>
-			<Item Name="iRamp_V6.0.a.vi" Type="VI" URL="../../../../Desktop/Enigma 2014 Project/iRamp_V6.0.a.vi"/>
-			<Item Name="iRamp_V6.0.b.vi" Type="VI" URL="../../../../Desktop/Enigma 2014 Project/iRamp_V6.0.b.vi"/>
-			<Item Name="iTankDrive v2.5.vi" Type="VI" URL="../../../../Desktop/Enigma 2014 Project/iTankDrive v2.5.vi"/>
-			<Item Name="iX2 v1.0.vi" Type="VI" URL="../../../../Desktop/Enigma 2014 Project/iX2 v1.0.vi"/>
+			<Item Name="iMotOut.vi" Type="VI" URL="../iMotOut.vi"/>
+			<Item Name="iOpen.vi" Type="VI" URL="../../../../../Desktop/LabView2015/iOpen.vi"/>
+			<Item Name="iRamp_V6.0.a.vi" Type="VI" URL="../iRamp_V6.0.a.vi"/>
+			<Item Name="iRamp_V6.0.b.vi" Type="VI" URL="../iRamp_V6.0.b.vi"/>
+			<Item Name="iTankDrive v2.5.vi" Type="VI" URL="../iTankDrive v2.5.vi"/>
+			<Item Name="iX2 v1.0.vi" Type="VI" URL="../iX2 v1.0.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
